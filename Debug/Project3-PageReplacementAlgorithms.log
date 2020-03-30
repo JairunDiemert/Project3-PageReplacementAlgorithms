@@ -1,0 +1,9 @@
+﻿  Project3-PageReplacementAlgorithms.cpp
+C:\Users\JrNe\source\repos\Project3-PageReplacementAlgorithms\Project3-PageReplacementAlgorithms.cpp(26,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\JrNe\source\repos\Project3-PageReplacementAlgorithms\Project3-PageReplacementAlgorithms.cpp(35,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\JrNe\source\repos\Project3-PageReplacementAlgorithms\Project3-PageReplacementAlgorithms.cpp(67,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\JrNe\source\repos\Project3-PageReplacementAlgorithms\Project3-PageReplacementAlgorithms.cpp(83,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\JrNe\source\repos\Project3-PageReplacementAlgorithms\Project3-PageReplacementAlgorithms.cpp(106,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\JrNe\source\repos\Project3-PageReplacementAlgorithms\Project3-PageReplacementAlgorithms.cpp(137,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\JrNe\source\repos\Project3-PageReplacementAlgorithms\Project3-PageReplacementAlgorithms.cpp(135,6): warning C4101: 'temp': unreferenced local variable
+  Project3-PageReplacementAlgorithms.vcxproj -> C:\Users\JrNe\source\repos\Project3-PageReplacementAlgorithms\Debug\Project3-PageReplacementAlgorithms.exe
